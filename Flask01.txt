@@ -1,0 +1,14 @@
+=> Topic:           Flask
+=> Date:            31-10-2020
+=> YouTube Link:    https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX
+
+=> My Takeaway:
+
+    - Flask is a Python framework for creating web applications
+    - Open Source
+    - based on WSGI toolkit and Jinga template
+    - It's a micro framework that doesn't provide as much functionality as django but is much easier and simpler to use
+    
+    - Installed Flask
+    - Implemented a Site as in "Flask01.py" that contains 3 routes
+            - A Home page, A Custom Name Display Page and a Redirect Admin Page
