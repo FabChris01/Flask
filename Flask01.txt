@@ -10,5 +10,5 @@
     - It's a micro framework that doesn't provide as much functionality as django but is much easier and simpler to use
     
     - Installed Flask
-    - Implemented a Site as in "Flask01.py" that contains 3 routes
+    - Implemented a Site that contains 3 routes
             - A Home page, A Custom Name Display Page and a Redirect Admin Page
