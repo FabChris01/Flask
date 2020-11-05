@@ -1,0 +1,10 @@
+=> Topic:           Flask
+=> Date:            05-11-2020
+=> YouTube Link:    https://www.youtube.com/watch?v=4nzI4RKwb5I&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=3
+
+=> My Takeaway:
+
+    - Learnt how to integrate Bootstrap into the Website Code
+    - Learnt about Template Inheritance and how to Implement integrate
+    - Implemented Template Inheritance in HTML files uswing blocks and made a navigation bar with Inherited properties
+    
