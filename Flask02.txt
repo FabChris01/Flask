@@ -1,0 +1,9 @@
+=> Topic:           Flask
+=> Date:            05-11-2020
+=> YouTube Link:    https://www.youtube.com/watch?v=xIgPMguqyws&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&index=2
+
+=> My Takeaway:
+
+    - Learnt how to create and use HTML template files
+    - Learnt how to integrate python code into HTML files
+    - Learnt how to pass arguments from the python code into the html files and display data
